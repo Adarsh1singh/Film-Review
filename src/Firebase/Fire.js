@@ -6,7 +6,12 @@ import { getFirestore , collection } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
- 
+ apiKey: "AIzaSyBKBJnIont35MNRcl94fFE2yQNPnjz1RyQ",
+  authDomain: "filmyverse1-21d7c.firebaseapp.com",
+  projectId: "filmyverse1-21d7c",
+  storageBucket: "filmyverse1-21d7c.appspot.com",
+  messagingSenderId: "409814509908",
+  appId: "1:409814509908:web:35c32ef004dc0a8d3080c1"
 };
 
 // Initialize Firebase
